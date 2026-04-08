@@ -1,0 +1,1768 @@
+- generic [ref=e2]:
+  - link "Підтримати українських військових та людей, які постраждали через війну" [ref=e3] [cursor=pointer]:
+    - /url: https://sport.ua/uk/news/579727-kak-pomoch-ukraine-fondy-podderzhki-armii-medikov-i-volonterov
+    - img [ref=e4]
+    - generic [ref=e8]: Підтримати українських військових та людей, які постраждали через війну
+    - img [ref=e9]
+  - banner [ref=e12]:
+    - navigation [ref=e13]:
+      - button "Toggle menu" [ref=e14] [cursor=pointer]
+      - link "Sport.ua" [ref=e15] [cursor=pointer]:
+        - /url: https://sport.ua/uk
+        - img "Sport.ua" [ref=e16]
+      - list [ref=e17]:
+        - listitem [ref=e18]:
+          - link "Ексклюзиви" [ref=e19] [cursor=pointer]:
+            - /url: https://sport.ua/uk/news/tags/38061-eksklyuziv
+        - listitem [ref=e20]:
+          - link "Футбол" [ref=e21] [cursor=pointer]:
+            - /url: https://sport.ua/uk/football
+        - listitem [ref=e22]:
+          - link "Бокс" [ref=e23] [cursor=pointer]:
+            - /url: https://sport.ua/uk/box
+        - listitem [ref=e24]:
+          - link "Теніс" [ref=e25] [cursor=pointer]:
+            - /url: https://sport.ua/uk/tennis
+        - listitem [ref=e26]:
+          - link "Баскетбол" [ref=e27] [cursor=pointer]:
+            - /url: https://sport.ua/uk/basketball
+        - listitem [ref=e28]:
+          - link "Формула 1" [ref=e29] [cursor=pointer]:
+            - /url: https://sport.ua/uk/auto/formula-1
+        - listitem [ref=e30]:
+          - link "Хокей" [ref=e31] [cursor=pointer]:
+            - /url: https://sport.ua/uk/hockey
+        - listitem [ref=e32]:
+          - link "Волейбол" [ref=e33] [cursor=pointer]:
+            - /url: https://sport.ua/uk/volleyball
+        - listitem [ref=e34]:
+          - button "Show" [ref=e35] [cursor=pointer]
+      - link "Матчі" [ref=e36] [cursor=pointer]:
+        - /url: https://sport.ua/uk/live
+      - button "UA" [ref=e38] [cursor=pointer]: UA
+      - button [ref=e42] [cursor=pointer]
+      - button "1" [ref=e45] [cursor=pointer]:
+        - generic [ref=e47]: "1"
+      - generic [ref=e48]:
+        - generic:
+          - textbox "Введіть текст" [ref=e50]
+          - button "" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]: 
+      - button [ref=e53] [cursor=pointer]
+      - text:                     
+    - list [ref=e57]:
+      - listitem [ref=e58]:
+        - link " футбол" [ref=e59] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football
+          - generic [ref=e60]: 
+          - text: футбол
+      - listitem [ref=e61]:
+        - link "Прем'єр ліга" [ref=e62] [cursor=pointer]:
+          - /url: https://sport.ua/uk/4u/1-premyer-liga
+      - listitem [ref=e63]:
+        - link "Перша ліга" [ref=e64] [cursor=pointer]:
+          - /url: https://sport.ua/uk/4u/2-pervaya-liga
+      - listitem [ref=e65]:
+        - link "Друга ліга" [ref=e66] [cursor=pointer]:
+          - /url: https://sport.ua/uk/4u/6-vtoraya-liga
+      - listitem [ref=e67]:
+        - link "Ліга Чемпіонів УЄФА" [ref=e68] [cursor=pointer]:
+          - /url: https://sport.ua/uk/cl
+      - listitem [ref=e69]:
+        - link "Ліга Європи" [ref=e70] [cursor=pointer]:
+          - /url: https://sport.ua/uk/uefa
+      - listitem [ref=e71]:
+        - link "Ліга конференцій" [ref=e72] [cursor=pointer]:
+          - /url: https://sport.ua/uk/conference-league
+      - listitem [ref=e73]:
+        - link "Англія" [ref=e74] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/england
+      - listitem [ref=e75]:
+        - link "Німеччина" [ref=e76] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/germany
+      - listitem [ref=e77]:
+        - link "Іспанія" [ref=e78] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/spain
+      - listitem [ref=e79]:
+        - link "Італія" [ref=e80] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/italy
+      - listitem [ref=e81]:
+        - link "Франція" [ref=e82] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/france
+      - listitem [ref=e83]:
+        - link "Нідерланди" [ref=e84] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/netherlands
+      - listitem [ref=e85]:
+        - link "Польща" [ref=e86] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/poland
+      - listitem [ref=e87]:
+        - link "Саудівська Аравія" [ref=e88] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/saudi-arabia
+      - listitem [ref=e89]:
+        - link "США MLS" [ref=e90] [cursor=pointer]:
+          - /url: https://sport.ua/uk/mls
+      - listitem [ref=e91]:
+        - link "Ліга націй УЄФА" [ref=e92] [cursor=pointer]:
+          - /url: https://sport.ua/uk/nationsleague
+      - listitem [ref=e93]:
+        - link "Євро-2024" [ref=e94] [cursor=pointer]:
+          - /url: https://sport.ua/uk/euro
+      - listitem [ref=e95]:
+        - link "ЧС-2026" [ref=e96] [cursor=pointer]:
+          - /url: https://sport.ua/uk/worldcup
+      - listitem [ref=e97]:
+        - link "Кубок Америки" [ref=e98] [cursor=pointer]:
+          - /url: https://sport.ua/uk/copa-america
+      - listitem [ref=e99]:
+        - link "Всі турніри" [ref=e100] [cursor=pointer]:
+          - /url: https://sport.ua/uk/football/tournaments
+  - generic [ref=e101]:
+    - main [ref=e103]:
+      - list [ref=e105]:
+        - listitem [ref=e106]:
+          - link "Спорт" [ref=e107] [cursor=pointer]:
+            - /url: https://sport.ua/uk
+          - generic [ref=e108]: 
+        - listitem [ref=e109]: Футбол
+      - complementary [ref=e110]:
+        - generic [ref=e111]:
+          - heading "Футбол - останні новини" [level=2] [ref=e113]
+          - generic [ref=e114]:
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - generic [ref=e118]: Україна. Прем'єр Ліга
+                - generic [ref=e119]: "|"
+                - generic [ref=e120]: 21:13
+              - link "Нері Кастільо відзначився скандальним постом до Луческу перед його смертю" [ref=e122] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857550-neri-kastilyo-vidznachivsya-skandalnim-postom-do-luchesku-pered-yogo-smertyu
+            - generic [ref=e124]:
+              - generic [ref=e125]:
+                - generic [ref=e126]: Ліга чемпіонів
+                - generic [ref=e127]: "|"
+                - generic [ref=e128]: 21:12
+              - link "Оприлюднено стартові склади на чвертьфінал ЛЧ Барселона – Атлетіко " [ref=e130] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857544-oprilyudneno-startovi-skladi-na-chvertfinal-lch-barselona-atletiko
+                - text: Оприлюднено стартові склади на чвертьфінал ЛЧ Барселона – Атлетіко
+                - generic [ref=e131]: 
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - generic [ref=e135]: Ліга чемпіонів
+                - generic [ref=e136]: "|"
+                - generic [ref=e137]: 21:12
+              - link "ПСЖ – Ліверпуль. Текстова трансляція матчу" [ref=e139] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857271-pszh-liverpul-tekstova-translyatsiya-matchu
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]: Англія
+                - generic [ref=e144]: "|"
+                - generic [ref=e145]: 21:06
+              - link "Ярмолюк потрапив у всесвітній топ-10 трудяг на футбольному полі" [ref=e147] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857538-yarmolyuk-potrapiv-u-vsesvitniy-top-10-trudyag-na-futbolnomu-poli
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - generic [ref=e151]: Ліга чемпіонів
+                - generic [ref=e152]: "|"
+                - generic [ref=e153]: 21:04
+                - generic [ref=e154]:
+                  - generic [ref=e155]: 
+                  - generic [ref=e156]: "1"
+              - link "Барселона – Атлетіко. Текстова трансляція матчу" [ref=e158] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857195-barselona-atletiko-tekstova-translyatsiya-matchu
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - generic [ref=e162]: Франція
+                - generic [ref=e163]: "|"
+                - generic [ref=e164]: 21:02
+              - link "Трубін зацікавив один із найсильніших клубів світу. Топовий трансфер" [ref=e166] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857044-trubin-zatsikaviv-odin-iz-naysilnishih-klubiv-svitu-topoviy-transfer
+            - generic [ref=e168]:
+              - generic [ref=e169]:
+                - generic [ref=e170]: Ліга конференцій
+                - generic [ref=e171]: "|"
+                - generic [ref=e172]: 20:58
+              - 'link "ТУРАН: «Ми з великою повагою ставимося до нашого суперника»" [ref=e174] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857542-turan-mi-z-velikoyu-povagoyu-stavimosya-do-nashogo-supernika
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]: Ліга чемпіонів
+                - generic [ref=e179]: "|"
+                - generic [ref=e180]: 20:57
+                - generic [ref=e181]:
+                  - generic [ref=e182]: 
+                  - generic [ref=e183]: "1"
+              - link "Чи зіграє Забарний? ПСЖ та Ліверпуль оприлюднили стартові склади " [ref=e185] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857547-chi-zigraie-zabarniy-pszh-ta-liverpul-oprilyudnili-startovi-skladi
+                - text: Чи зіграє Забарний? ПСЖ та Ліверпуль оприлюднили стартові склади
+                - generic [ref=e186]: 
+            - generic [ref=e188]:
+              - generic [ref=e189]:
+                - generic [ref=e190]: Англія
+                - generic [ref=e191]: "|"
+                - generic [ref=e192]: 20:53
+              - link "Скоулз продав би половину складу теперішнього МЮ. Хто на вихід?" [ref=e194] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857546-skoulz-prodav-bi-polovinu-skladu-teperishnyogo-myu-hto-na-vihid
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e198]: Україна. Друга ліга
+                - generic [ref=e199]: "|"
+                - generic [ref=e200]: 20:49
+              - link "Тростянець та Колос-2 не змогли дограти матч. Результати Другої ліги " [ref=e202] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                - text: Тростянець та Колос-2 не змогли дограти матч. Результати Другої ліги
+                - generic [ref=e203]: 
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - generic [ref=e207]: Ліга чемпіонів
+                - generic [ref=e208]: "|"
+                - generic [ref=e209]: 20:48
+                - generic [ref=e210]:
+                  - generic [ref=e211]: 
+                  - generic [ref=e212]: "3"
+              - link "ПСЖ – Ліверпуль. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів" [ref=e214] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857335-pszh-liverpul-prognoz-i-anons-na-match-14-finalu-ligi-chempioniv
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - generic [ref=e218]: Ліга чемпіонів
+                - generic [ref=e219]: "|"
+                - generic [ref=e220]: 20:47
+              - link "ПСЖ – Ліверпуль. 1/4 фіналу ЛЧ. Дивитись онлайн. LIVE трансляція " [ref=e222] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857323-pszh-liverpul-14-finalu-lch-divitis-onlayn-live-translyatsiya
+                - text: ПСЖ – Ліверпуль. 1/4 фіналу ЛЧ. Дивитись онлайн. LIVE трансляція
+                - generic [ref=e223]: 
+            - generic [ref=e225]:
+              - generic [ref=e226]:
+                - generic [ref=e227]: Ліга чемпіонів
+                - generic [ref=e228]: "|"
+                - generic [ref=e229]: 20:44
+                - generic [ref=e230]:
+                  - generic [ref=e231]: 
+                  - generic [ref=e232]: "9"
+              - link "Барселона – Атлетіко. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів" [ref=e234] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857334-barselona-atletiko-prognoz-i-anons-na-match-14-finalu-ligi-chempioniv
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - generic [ref=e238]: Україна. Прем'єр Ліга
+                - generic [ref=e239]: "|"
+                - generic [ref=e240]: 20:37
+                - generic [ref=e241]:
+                  - generic [ref=e242]: 
+                  - generic [ref=e243]: "1"
+              - 'link "Від траси до геймпада: де ще можуть феєрити гравці Динамо " [ref=e245] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857543-vid-trasi-do-geympada-de-shche-mozhut-feieriti-gravtsi-dinamo
+                - text: "Від траси до геймпада: де ще можуть феєрити гравці Динамо"
+                - generic [ref=e246]: 
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: Ліга конференцій
+                - generic [ref=e251]: "|"
+                - generic [ref=e252]: 20:33
+              - 'link "Валерій БОНДАР: «Ми розглядаємо кожного суперника як команду»" [ref=e254] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857539-valeriy-bondar-mi-rozglyadaiemo-kozhnogo-supernika-yak-komandu
+            - generic [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e258]: Ліга чемпіонів
+                - generic [ref=e259]: "|"
+                - generic [ref=e260]: 20:30
+                - generic [ref=e261]:
+                  - generic [ref=e262]: 
+                  - generic [ref=e263]: "1"
+              - link "Невтішна статистика каталонців. Як Барселона з Атлетіко в ЛЧ грала" [ref=e265] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857527-nevtishna-statistika-katalontsiv-yak-barselona-z-atletiko-v-lch-grala
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - generic [ref=e269]: Іспанія
+                - generic [ref=e270]: "|"
+                - generic [ref=e271]: 20:24
+                - generic [ref=e272]:
+                  - generic [ref=e273]: 
+                  - generic [ref=e274]: "3"
+              - link "Арбелоа назвав трьох гравців Реала, винних у поразці від Баварії" [ref=e276] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857531-arbeloa-nazvav-tryoh-gravtsiv-reala-vinnih-u-poraztsi-vid-bavarii
+            - generic [ref=e278]:
+              - generic [ref=e279]:
+                - generic [ref=e280]: Україна. Прем'єр Ліга
+                - generic [ref=e281]: "|"
+                - generic [ref=e282]: 20:21
+                - generic [ref=e283]:
+                  - generic [ref=e284]: 
+                  - generic [ref=e285]: "1"
+              - 'link "ВЕРНИДУБ: «Українські клуби не мають стільки грошей, як в Азербайджані»" [ref=e287] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857532-vernidub-ukrainski-klubi-ne-mayut-stilki-groshey-yak-v-azerbaydzhani
+            - generic [ref=e289]:
+              - generic [ref=e290]:
+                - generic [ref=e291]: Україна. Перша ліга
+                - generic [ref=e292]: "|"
+                - generic [ref=e293]: 20:16
+              - link "Закріпились на другому місці. Чорноморець в Одесі обіграв Інгулець " [ref=e295] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857528-zakripilis-na-drugomu-mistsi-chornomorets-v-odesi-obigrav-ingulets
+                - text: Закріпились на другому місці. Чорноморець в Одесі обіграв Інгулець
+                - generic [ref=e296]: 
+            - generic [ref=e298]:
+              - generic [ref=e299]:
+                - generic [ref=e300]: Ліга конференцій
+                - generic [ref=e301]: "|"
+                - generic [ref=e302]: 19:58
+              - link "Шахтар - АЗ. Текстова трансляція матчу" [ref=e304] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857529-shahtar-az-tekstova-translyatsiya-matchu
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e308]: Україна. Прем'єр Ліга
+                - generic [ref=e309]: "|"
+                - generic [ref=e310]: 19:57
+                - generic [ref=e311]:
+                  - generic [ref=e312]: 
+                  - generic [ref=e313]: "8"
+              - link "Матвій Пономаренко одружився" [ref=e315] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857526-matviy-ponomarenko-odruzhivsya
+            - generic [ref=e317]:
+              - generic [ref=e318]:
+                - generic [ref=e319]: Франція
+                - generic [ref=e320]: "|"
+                - generic [ref=e321]: 19:47
+              - link "Злодії-модники обікрали будинок головного тренера Марселя" [ref=e323] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857523-zlodii-modniki-obikrali-budinok-golovnogo-trenera-marselya
+            - generic [ref=e325]:
+              - generic [ref=e326]:
+                - generic [ref=e327]: Україна. Прем'єр Ліга
+                - generic [ref=e328]: "|"
+                - generic [ref=e329]: 19:40
+              - link "У склад Динамо повернувся ключовий гравець перед топ-матчем УПЛ" [ref=e331] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857512-u-sklad-dinamo-povernuvsya-klyuchoviy-gravets-pered-top-matchem-upl
+            - generic [ref=e333]:
+              - generic [ref=e334]:
+                - generic [ref=e335]: Італія
+                - generic [ref=e336]: "|"
+                - generic [ref=e337]: 19:38
+              - link "Спаллетті залишається в Ювентусі до 2028 року" [ref=e339] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857521-spalletti-zalishaietsya-v-yuventusi-do-2028-roku
+            - generic [ref=e341]:
+              - generic [ref=e342]:
+                - generic [ref=e343]: Ліга чемпіонів
+                - generic [ref=e344]: "|"
+                - generic [ref=e345]: 19:31
+              - link "Хитрий план Сімеоне на матч із Барселоною. Ямаль під прицілом" [ref=e347] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857520-hitriy-plan-simeone-na-match-iz-barselonoyu-yamal-pid-pritsilom
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - generic [ref=e351]: Ліга чемпіонів
+                - generic [ref=e352]: "|"
+                - generic [ref=e353]: 19:25
+                - generic [ref=e354]:
+                  - generic [ref=e355]: 
+                  - generic [ref=e356]: "6"
+              - link "Туран обрав між Атлетіко і Барселоною у Лізі чемпіонів" [ref=e358] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857500-turan-obrav-mizh-atletiko-i-barselonoyu-u-lizi-chempioniv
+            - generic [ref=e360]:
+              - generic [ref=e361]:
+                - generic [ref=e362]: Ліга чемпіонів
+                - generic [ref=e363]: "|"
+                - generic [ref=e364]: 19:16
+                - generic [ref=e365]:
+                  - generic [ref=e366]: 
+                  - generic [ref=e367]: "2"
+              - 'link "Фанати Баварії перехитрили всіх: орендували цілий літак на матч із Реалом" [ref=e369] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857517-fanati-bavarii-perehitrili-vsih-orenduvali-tsiliy-litak-na-match-iz-realom
+            - generic [ref=e371]:
+              - generic [ref=e372]:
+                - generic [ref=e373]: Німеччина
+                - generic [ref=e374]: "|"
+                - generic [ref=e375]: 19:15
+              - link "Неймовірні цифри. Перші 100 матчів Компані в Баварії" [ref=e377] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857515-neymovirni-tsifri-pershi-100-matchiv-kompani-v-bavarii
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e381]: Україна. Прем'єр Ліга
+                - generic [ref=e382]: "|"
+                - generic [ref=e383]: 19:05
+              - link "Полісся хоче гравця Кривбасу. Дешево не відпускають" [ref=e385] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857434-polissya-hoche-gravtsya-krivbasu-deshevo-ne-vidpuskayut
+            - generic [ref=e387]:
+              - generic [ref=e388]:
+                - generic [ref=e389]: Ліга Європи
+                - generic [ref=e390]: "|"
+                - generic [ref=e391]: 19:01
+              - link "Брага – Бетіс. Прогноз і анонс на матч 1/4 фіналу Ліги Європи" [ref=e393] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857332-braga-betis-prognoz-i-anons-na-match-14-finalu-ligi-yevropi
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e397]: Ліга конференцій
+                - generic [ref=e398]: "|"
+                - generic [ref=e399]: 18:59
+                - generic [ref=e400]:
+                  - generic [ref=e401]: 
+                  - generic [ref=e402]: "2"
+              - link "Туран сказав, які у Шахтаря шанси виграти Лігу конференцій" [ref=e404] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857498-turan-skazav-yaki-u-shahtarya-shansi-vigrati-ligu-konferentsiy
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - generic [ref=e408]: Україна. Прем'єр Ліга
+                - generic [ref=e409]: "|"
+                - generic [ref=e410]: 18:55
+              - 'link "Валерій БОНДАР: «Про Шахтар стільки говорять – це заслуга Луческу»" [ref=e412] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857496-valeriy-bondar-pro-shahtar-stilki-govoryat-tse-zasluga-luchesku
+            - generic [ref=e414]:
+              - generic [ref=e415]:
+                - generic [ref=e416]: Україна. Прем'єр Ліга
+                - generic [ref=e417]: "|"
+                - generic [ref=e418]: 18:46
+              - 'link "САРАПІЙ: «Знайомі з дитинства, Миколенко був один з перших, хто допоміг»" [ref=e420] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857514-sarapiy-znayomi-z-ditinstva-mikolenko-buv-odin-z-pershih-hto-dopomig
+            - generic [ref=e422]:
+              - generic [ref=e423]:
+                - generic [ref=e424]: Ліга конференцій
+                - generic [ref=e425]: "|"
+                - generic [ref=e426]: 18:39
+              - 'link "Ексгравець Шахтаря: «Гірники з АЗ обміняються голами»" [ref=e428] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857513-eksgravets-shahtarya-girniki-z-az-obminyayutsya-golami
+            - generic [ref=e430]:
+              - generic [ref=e431]:
+                - generic [ref=e432]: Україна. Перша ліга
+                - generic [ref=e433]: "|"
+                - generic [ref=e434]: 18:35
+                - generic [ref=e435]:
+                  - generic [ref=e436]: 
+                  - generic [ref=e437]: "2"
+              - link "Буковина виграла і летить в УПЛ, Ворскла знову програла" [ref=e439] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857490-bukovina-vigrala-i-letit-v-upl-vorskla-znovu-prograla
+            - generic [ref=e441]:
+              - generic [ref=e442]:
+                - generic [ref=e443]: Інші новини
+                - generic [ref=e444]: "|"
+                - generic [ref=e445]: 18:30
+              - link "У Данії вболівальники закидали поле бургерами. Що сталося?" [ref=e447] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857510-kopengagen
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - generic [ref=e451]: Іспанія
+                - generic [ref=e452]: "|"
+                - generic [ref=e453]: 18:28
+              - link "За останні 50 років більше поразок тільки у одного. Арбелоа – другий." [ref=e455] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857511-za-ostanni-50-rokiv-bilshe-porazok-tilki-u-odnogo-arbeloa-drugiy
+            - generic [ref=e457]:
+              - generic [ref=e458]:
+                - generic [ref=e459]: Англія
+                - generic [ref=e460]: "|"
+                - generic [ref=e461]: 18:14
+              - link "«Просто грайте в ноги, це легко». Миколенко в захваті від одноклубника" [ref=e463] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857507-prosto-grayte-v-nogi-tse-legko-mikolenko-v-zahvati-vid-odnoklubnika
+            - generic [ref=e465]:
+              - generic [ref=e466]:
+                - generic [ref=e467]: Англія
+                - generic [ref=e468]: "|"
+                - generic [ref=e469]: 17:59
+              - link "Капітан Ман Сіті залишає команду. Є два головні претенденти" [ref=e471] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857075-kapitan-man-siti-zalishaie-komandu-ye-dva-golovni-pretendenti
+            - generic [ref=e473]:
+              - generic [ref=e474]:
+                - generic [ref=e475]: Україна. Прем'єр Ліга
+                - generic [ref=e476]: "|"
+                - generic [ref=e477]: 17:55
+                - generic [ref=e478]:
+                  - generic [ref=e479]: 
+                  - generic [ref=e480]: "57"
+              - link "Металіст 1925 розкритикував Динамо і звернувся до УАФ " [ref=e482] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857464-metalist-1925-rozkritikuvav-dinamo-i-zvernuvsya-do-uaf
+                - text: Металіст 1925 розкритикував Динамо і звернувся до УАФ
+                - generic [ref=e483]: 
+          - button "Показати більше" [ref=e486] [cursor=pointer]: Показати більше
+      - generic [ref=e488]:
+        - heading "Футбол - новини онлайн" [level=1] [ref=e489]
+        - generic [ref=e490]:
+          - generic [ref=e492]:
+            - link "Мірча Луческу та віра в український клубний футбол після Лобановського" [ref=e493] [cursor=pointer]:
+              - /url: https://sport.ua/uk/news/857427-mircha-luchesku-ta-vira-v-ukrainskiy-klubniy-futbol-pislya-lobanovskogo
+              - img "Мірча Луческу та віра в український клубний футбол після Лобановського" [ref=e495]
+            - generic [ref=e496]:
+              - link "Мірча Луческу та віра в український клубний футбол після Лобановського" [ref=e498] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857427-mircha-luchesku-ta-vira-v-ukrainskiy-klubniy-futbol-pislya-lobanovskogo
+              - paragraph [ref=e499]: Напередодні не стало наставника, котрий багато чого зробив для підвищення іміджу УПЛ…
+              - generic [ref=e500]:
+                - generic [ref=e501]: 08 квітня 2026, 17:55
+                - generic [ref=e502]:
+                  - generic [ref=e503]: 
+                  - generic [ref=e504]: "7"
+            - generic [ref=e505]: Україна. Прем'єр Ліга
+          - generic [ref=e507]:
+            - 'link "ТУРАН: «Ми з великою повагою ставимося до нашого суперника»" [ref=e508] [cursor=pointer]':
+              - /url: https://sport.ua/uk/news/857542-turan-mi-z-velikoyu-povagoyu-stavimosya-do-nashogo-supernika
+              - generic [ref=e509]:
+                - 'img "ТУРАН: «Ми з великою повагою ставимося до нашого суперника»"'
+            - generic [ref=e510]:
+              - 'link "ТУРАН: «Ми з великою повагою ставимося до нашого суперника»" [ref=e512] [cursor=pointer]':
+                - /url: https://sport.ua/uk/news/857542-turan-mi-z-velikoyu-povagoyu-stavimosya-do-nashogo-supernika
+              - paragraph [ref=e513]: Тренер «Шахтаря» дав прес-конференцію перед матчем із АЗ Алкмаар
+              - generic [ref=e515]: 08 квітня 2026, 20:58
+            - generic [ref=e516]: Ліга конференцій
+          - generic [ref=e518]:
+            - link "Мирон Маркевич спрогнозував підсумковий рахунок матчу Шахтар – АЗ Алкмаар" [ref=e519] [cursor=pointer]:
+              - /url: https://sport.ua/uk/news/857050-miron-markevich-sprognozuvav-pidsumkoviy-rahunok-matchu-shahtar-az-alkmaar
+              - generic [ref=e520]:
+                - img "Мирон Маркевич спрогнозував підсумковий рахунок матчу Шахтар – АЗ Алкмаар"
+            - generic [ref=e521]:
+              - link "Мирон Маркевич спрогнозував підсумковий рахунок матчу Шахтар – АЗ Алкмаар" [ref=e523] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857050-miron-markevich-sprognozuvav-pidsumkoviy-rahunok-matchu-shahtar-az-alkmaar
+              - paragraph [ref=e524]: Відомий український тренер вважає, що у «гірників» непогані шанси вийти до 1/2-ї Ліги конференцій
+              - generic [ref=e525]:
+                - generic [ref=e526]: 08 квітня 2026, 16:39
+                - generic [ref=e527]:
+                  - generic [ref=e528]: 
+                  - generic [ref=e529]: "15"
+            - generic [ref=e530]: Ліга конференцій
+          - generic [ref=e532]:
+            - link "Нері Кастільо відзначився скандальним постом до Луческу перед його смертю" [ref=e533] [cursor=pointer]:
+              - /url: https://sport.ua/uk/news/857550-neri-kastilyo-vidznachivsya-skandalnim-postom-do-luchesku-pered-yogo-smertyu
+              - generic [ref=e534]:
+                - img "Нері Кастільо відзначився скандальним постом до Луческу перед його смертю"
+            - generic [ref=e535]:
+              - link "Нері Кастільо відзначився скандальним постом до Луческу перед його смертю" [ref=e537] [cursor=pointer]:
+                - /url: https://sport.ua/uk/news/857550-neri-kastilyo-vidznachivsya-skandalnim-postom-do-luchesku-pered-yogo-smertyu
+              - paragraph [ref=e538]: Мексиканець мав вкрай непрості стосунки із румуном
+              - generic [ref=e540]: 08 квітня 2026, 21:13
+            - generic [ref=e541]: Україна. Прем'єр Ліга
+          - generic:
+            - button "" [ref=e542] [cursor=pointer]:
+              - generic [ref=e543]: 
+            - button "" [ref=e544] [cursor=pointer]:
+              - generic [ref=e545]: 
+        - generic [ref=e551]:
+          - generic [ref=e552]:
+            - heading "Результати" [level=2] [ref=e553]
+            - generic [ref=e554]:
+              - link "" [ref=e555] [cursor=pointer]:
+                - /url: https://sport.ua/uk?matches_date=07.04.2026
+                - button "" [ref=e557]:
+                  - generic [ref=e558]: 
+              - generic [ref=e559] [cursor=pointer]:
+                - textbox " 08 квітня, Ср": 08.04.2026
+                - generic [ref=e560]: 
+                - generic [ref=e561]: 08 квітня, Ср
+              - link "" [ref=e562] [cursor=pointer]:
+                - /url: https://sport.ua/uk?matches_date=09.04.2026
+                - button "" [ref=e564]:
+                  - generic [ref=e565]: 
+          - generic [ref=e567]:
+            - generic [ref=e568]:
+              - generic [ref=e569]: 
+              - generic [ref=e570]: Футбол
+            - generic [ref=e571]:
+              - generic [ref=e572]:
+                - paragraph [ref=e574]: Ліга Чемпіонів 2025/2026 1/4 фіналу
+                - generic [ref=e575]:
+                  - link " Таблиця" [ref=e576] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/cl/results/fixture
+                    - generic [ref=e577]: 
+                    - generic [ref=e578]: Таблиця
+                  - link " Календар" [ref=e579] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/cl/results/calendar
+                    - generic [ref=e580]: 
+                    - generic [ref=e581]: Календар
+                - button "" [ref=e583] [cursor=pointer]:
+                  - generic [ref=e584]: 
+                - text: 
+              - generic [ref=e586]:
+                - generic [ref=e587]:
+                  - 'link "22:00 ПСЖ - : - Ліверпуль" [ref=e588] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101598-pszh-liverpul-2026-04-08
+                    - generic [ref=e590]: 22:00
+                    - generic [ref=e591]: ПСЖ
+                    - generic [ref=e592]:
+                      - generic [ref=e593]: "-"
+                      - generic [ref=e594]: ":"
+                      - generic [ref=e595]: "-"
+                    - generic [ref=e596]: Ліверпуль
+                  - img "MEGOGO" [ref=e598]
+                  - link "" [ref=e600] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857323-pszh-liverpul-14-finalu-lch-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e601]: 
+                  - button "" [ref=e602] [cursor=pointer]:
+                    - generic [ref=e603]: 
+                  - text: 
+                - generic [ref=e604]:
+                  - 'link "22:00 Барселона - : - Атлетіко Мадрид" [ref=e605] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101599-barselona-atletiko-madrid-2026-04-08
+                    - generic [ref=e607]: 22:00
+                    - generic [ref=e608]: Барселона
+                    - generic [ref=e609]:
+                      - generic [ref=e610]: "-"
+                      - generic [ref=e611]: ":"
+                      - generic [ref=e612]: "-"
+                    - generic [ref=e613]: Атлетіко Мадрид
+                  - img "MEGOGO" [ref=e615]
+                  - link "" [ref=e617] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857405-barselona-atletiko-14-finalu-lch-divitisya-onlayn-live-translyatsiya
+                    - generic [ref=e618]: 
+                  - button "" [ref=e619] [cursor=pointer]:
+                    - generic [ref=e620]: 
+                  - text: 
+            - generic [ref=e621]:
+              - generic [ref=e622]:
+                - paragraph [ref=e624]: Ліга Європи 2025/2026 1/4 фіналу
+                - generic [ref=e625]:
+                  - link " Таблиця" [ref=e626] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/uefa/results/fixture
+                    - generic [ref=e627]: 
+                    - generic [ref=e628]: Таблиця
+                  - link " Календар" [ref=e629] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/uefa/results/calendar
+                    - generic [ref=e630]: 
+                    - generic [ref=e631]: Календар
+                - button "" [ref=e633] [cursor=pointer]:
+                  - generic [ref=e634]: 
+                - text: 
+              - generic [ref=e637]:
+                - 'link "69’ Брага 1 : 1 Бетіс" [ref=e638] [cursor=pointer]':
+                  - /url: https://sport.ua/uk/online/101597-braga-betis-2026-04-08
+                  - generic [ref=e641]: 69’
+                  - generic [ref=e642]: Брага
+                  - generic [ref=e643]:
+                    - generic [ref=e644]: "1"
+                    - generic [ref=e645]: ":"
+                    - generic [ref=e646]: "1"
+                  - generic [ref=e647]: Бетіс
+                - img "MEGOGO" [ref=e649]
+                - button "" [ref=e651] [cursor=pointer]:
+                  - generic [ref=e652]: 
+                - text: 
+            - generic [ref=e653]:
+              - generic [ref=e654]:
+                - paragraph [ref=e656]: Перша ліга 2025/2026 Регулярний сезон 22-й тур
+                - generic [ref=e657]:
+                  - link " Таблиця" [ref=e658] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/2/fixture
+                    - generic [ref=e659]: 
+                    - generic [ref=e660]: Таблиця
+                  - link " Календар" [ref=e661] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/2/calendar
+                    - generic [ref=e662]: 
+                    - generic [ref=e663]: Календар
+                - button "" [ref=e665] [cursor=pointer]:
+                  - generic [ref=e666]: 
+                - text: 
+              - generic [ref=e668]:
+                - generic [ref=e669]:
+                  - 'link "FT ЮКСА 2 : 1 Агробізнес" [ref=e670] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101592-yuksa-agrobiznes-2026-04-08
+                    - generic [ref=e672]: FT
+                    - generic [ref=e673]: ЮКСА
+                    - generic [ref=e674]:
+                      - generic [ref=e675]: "2"
+                      - generic [ref=e676]: ":"
+                      - generic [ref=e677]: "1"
+                    - generic [ref=e678]: Агробізнес
+                  - link "Звіт по матчу ЮКСА - Агробізнес, Перша ліга 2025/2026" [ref=e679] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857471-prigalmuvali-hid-supernika-yuksa-perervala-bezprograshnu-seriyu-agrobiznesu
+                  - link "" [ref=e681] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857324-yuksa-agrobiznes-bukovina-lbereg-chornomorets-inguletsdivitisya-live
+                    - generic [ref=e682]: 
+                  - button "" [ref=e683] [cursor=pointer]:
+                    - generic [ref=e684]: 
+                  - text: 
+                - generic [ref=e685]:
+                  - 'link "FT Фенікс-Маріуполь 2 : 1 Металург Зп" [ref=e686] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101588-feniks-mariupol-metallurg-zp-2026-04-08
+                    - generic [ref=e688]: FT
+                    - generic [ref=e689]: Фенікс-Маріуполь
+                    - generic [ref=e690]:
+                      - generic [ref=e691]: "2"
+                      - generic [ref=e692]: ":"
+                      - generic [ref=e693]: "1"
+                    - generic [ref=e694]: Металург Зп
+                  - link "Звіт по матчу Фенікс-Маріуполь - Металург Зп, Перша ліга 2025/2026" [ref=e695] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857483-skladna-ale-vazhliva-peremoga-feniks-mariupol-obigrav-metalurg-zaporizhzhya
+                  - link "" [ref=e697] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857324-yuksa-agrobiznes-bukovina-lbereg-chornomorets-inguletsdivitisya-live
+                    - generic [ref=e698]: 
+                  - button "" [ref=e699] [cursor=pointer]:
+                    - generic [ref=e700]: 
+                  - text: 
+                - generic [ref=e701]:
+                  - 'link "FT Ворскла 0 : 2 Пробій" [ref=e702] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101587-vorskla-proboy-2026-04-08
+                    - generic [ref=e704]: FT
+                    - generic [ref=e705]: Ворскла
+                    - generic [ref=e706]:
+                      - generic [ref=e707]: "0"
+                      - generic [ref=e708]: ":"
+                      - generic [ref=e709]: "2"
+                    - generic [ref=e710]: Пробій
+                  - link "Звіт по матчу Ворскла - Пробій, Перша ліга 2025/2026" [ref=e711] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857490-bukovina-vigrala-i-letit-v-upl-vorskla-znovu-prograla
+                  - link "" [ref=e713] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857324-yuksa-agrobiznes-bukovina-lbereg-chornomorets-inguletsdivitisya-live
+                    - generic [ref=e714]: 
+                  - button "" [ref=e715] [cursor=pointer]:
+                    - generic [ref=e716]: 
+                  - text: 
+                - generic [ref=e717]:
+                  - 'link "FT Буковина 2 : 1 Лівий Берег" [ref=e718] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101589-bukovina-leviy-bereg-2026-04-08
+                    - generic [ref=e720]: FT
+                    - generic [ref=e721]: Буковина
+                    - generic [ref=e722]:
+                      - generic [ref=e723]: "2"
+                      - generic [ref=e724]: ":"
+                      - generic [ref=e725]: "1"
+                    - generic [ref=e726]: Лівий Берег
+                  - link "Звіт по матчу Буковина - Лівий Берег, Перша ліга 2025/2026" [ref=e727] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857490-bukovina-vigrala-i-letit-v-upl-vorskla-znovu-prograla
+                  - link "" [ref=e729] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857324-yuksa-agrobiznes-bukovina-lbereg-chornomorets-inguletsdivitisya-live
+                    - generic [ref=e730]: 
+                  - button "" [ref=e731] [cursor=pointer]:
+                    - generic [ref=e732]: 
+                  - text: 
+                - generic [ref=e733]:
+                  - 'link "FT Чорноморець 2 : 0 Інгулець" [ref=e734] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101593-chernomorets-ingulets-2026-04-08
+                    - generic [ref=e736]: FT
+                    - generic [ref=e737]: Чорноморець
+                    - generic [ref=e738]:
+                      - generic [ref=e739]: "2"
+                      - generic [ref=e740]: ":"
+                      - generic [ref=e741]: "0"
+                    - generic [ref=e742]: Інгулець
+                  - link "Звіт по матчу Чорноморець - Інгулець, Перша ліга 2025/2026" [ref=e743] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857528-zakripilis-na-drugomu-mistsi-chornomorets-v-odesi-obigrav-ingulets
+                  - link "" [ref=e745] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857324-yuksa-agrobiznes-bukovina-lbereg-chornomorets-inguletsdivitisya-live
+                    - generic [ref=e746]: 
+                  - button "" [ref=e747] [cursor=pointer]:
+                    - generic [ref=e748]: 
+                  - text: 
+            - generic [ref=e749]:
+              - generic [ref=e750]:
+                - paragraph [ref=e752]: Друга ліга 2025/2026 Група A
+                - generic [ref=e753]:
+                  - link " Таблиця" [ref=e754] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/6/fixture
+                    - generic [ref=e755]: 
+                    - generic [ref=e756]: Таблиця
+                  - link " Календар" [ref=e757] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/6/calendar
+                    - generic [ref=e758]: 
+                    - generic [ref=e759]: Календар
+                - button "" [ref=e761] [cursor=pointer]:
+                  - generic [ref=e762]: 
+                - text: 
+              - generic [ref=e764]:
+                - generic [ref=e765]:
+                  - generic [ref=e766]:
+                    - generic [ref=e768]: FT
+                    - link "Лісне" [ref=e770] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/4075-lesnoe
+                    - generic [ref=e771]:
+                      - generic [ref=e772]: "0"
+                      - generic [ref=e773]: ":"
+                      - generic [ref=e774]: "3"
+                    - link "Ужгород" [ref=e776] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/3229-uzhgorod
+                  - button "":
+                    - generic: 
+                  - text: 
+                - generic [ref=e778]:
+                  - 'link "FT Нива Вінниця 3 : 0 Реал Фарма" [ref=e779] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101578-niva-vinnitsa-real-farma-2026-04-08
+                    - generic [ref=e781]: FT
+                    - generic [ref=e782]: Нива Вінниця
+                    - generic [ref=e783]:
+                      - generic [ref=e784]: "3"
+                      - generic [ref=e785]: ":"
+                      - generic [ref=e786]: "0"
+                    - generic [ref=e787]: Реал Фарма
+                  - link "Звіт по матчу Нива Вінниця - Реал Фарма, Друга ліга 2025/2026" [ref=e788] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - link "" [ref=e790] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857372-druga-liga-matchi-8-kvitnya-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e791]: 
+                  - button "" [ref=e792] [cursor=pointer]:
+                    - generic [ref=e793]: 
+                  - text: 
+                - generic [ref=e794]:
+                  - 'link "FT Нива-2 Тернопіль 0 : 5 Куликів-Білка" [ref=e795] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101584-niva-2-ternopol-kulikov-belka-2026-04-08
+                    - generic [ref=e797]: FT
+                    - generic [ref=e798]: Нива-2 Тернопіль
+                    - generic [ref=e799]:
+                      - generic [ref=e800]: "0"
+                      - generic [ref=e801]: ":"
+                      - generic [ref=e802]: "5"
+                    - generic [ref=e803]: Куликів-Білка
+                  - link "Звіт по матчу Нива-2 Тернопіль - Куликів-Білка, Друга ліга 2025/2026" [ref=e804] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - link "" [ref=e806] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857372-druga-liga-matchi-8-kvitnya-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e807]: 
+                  - button "" [ref=e808] [cursor=pointer]:
+                    - generic [ref=e809]: 
+                  - text: 
+            - generic [ref=e810]:
+              - generic [ref=e811]:
+                - paragraph [ref=e813]: Друга ліга 2025/2026 Група B
+                - generic [ref=e814]:
+                  - link " Таблиця" [ref=e815] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/6/fixture
+                    - generic [ref=e816]: 
+                    - generic [ref=e817]: Таблиця
+                  - link " Календар" [ref=e818] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/ukraine/6/calendar
+                    - generic [ref=e819]: 
+                    - generic [ref=e820]: Календар
+                - button "" [ref=e822] [cursor=pointer]:
+                  - generic [ref=e823]: 
+                - text: 
+              - generic [ref=e825]:
+                - generic [ref=e826]:
+                  - 'link "PP Тростянець 0 : 0 Колос-2 Ковалівка" [ref=e827] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101577-trostyanets-kolos-2-kovalevka-2026-04-08
+                    - generic [ref=e829]: PP
+                    - generic [ref=e830]: Тростянець
+                    - generic [ref=e831]:
+                      - generic [ref=e832]: "0"
+                      - generic [ref=e833]: ":"
+                      - generic [ref=e834]: "0"
+                    - generic [ref=e835]: Колос-2 Ковалівка
+                  - link "Звіт по матчу Тростянець - Колос-2 Ковалівка, Друга ліга 2025/2026" [ref=e836] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - link "" [ref=e838] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857372-druga-liga-matchi-8-kvitnya-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e839]: 
+                  - button "" [ref=e840] [cursor=pointer]:
+                    - generic [ref=e841]: 
+                  - text: 
+                - generic [ref=e842]:
+                  - 'link "FT Олександрія-2 1 : 0 Діназ" [ref=e843] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101581-aleksandriya-2-dinaz-2026-04-08
+                    - generic [ref=e845]: FT
+                    - generic [ref=e846]: Олександрія-2
+                    - generic [ref=e847]:
+                      - generic [ref=e848]: "1"
+                      - generic [ref=e849]: ":"
+                      - generic [ref=e850]: "0"
+                    - generic [ref=e851]: Діназ
+                  - link "Звіт по матчу Олександрія-2 - Діназ, Друга ліга 2025/2026" [ref=e852] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - link "" [ref=e854] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857372-druga-liga-matchi-8-kvitnya-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e855]: 
+                  - button "" [ref=e856] [cursor=pointer]:
+                    - generic [ref=e857]: 
+                  - text: 
+                - generic [ref=e858]:
+                  - 'link "FT Ребел 4 : 0 Гірник-Спорт" [ref=e859] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101582-rebel-kiev-gornyak-sport-2026-04-08
+                    - generic [ref=e861]: FT
+                    - generic [ref=e862]: Ребел
+                    - generic [ref=e863]:
+                      - generic [ref=e864]: "4"
+                      - generic [ref=e865]: ":"
+                      - generic [ref=e866]: "0"
+                    - generic [ref=e867]: Гірник-Спорт
+                  - link "Звіт по матчу Ребел - Гірник-Спорт, Друга ліга 2025/2026" [ref=e868] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - link "" [ref=e870] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857372-druga-liga-matchi-8-kvitnya-divitis-onlayn-live-translyatsiya
+                    - generic [ref=e871]: 
+                  - button "" [ref=e872] [cursor=pointer]:
+                    - generic [ref=e873]: 
+                  - text: 
+            - generic [ref=e874]:
+              - generic [ref=e875]:
+                - paragraph [ref=e877]: Чемпіонат Туреччини 2025/2026 Суперліга 27-й тур
+                - generic [ref=e878]:
+                  - link " Таблиця" [ref=e879] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/turkey/108/fixture
+                    - generic [ref=e880]: 
+                    - generic [ref=e881]: Таблиця
+                  - link " Календар" [ref=e882] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/turkey/108/calendar
+                    - generic [ref=e883]: 
+                    - generic [ref=e884]: Календар
+                - button "" [ref=e886] [cursor=pointer]:
+                  - generic [ref=e887]: 
+                - text: 
+              - generic [ref=e890]:
+                - 'link "53’ Гезтепе 1 : 2 Галатасарай" [ref=e891] [cursor=pointer]':
+                  - /url: https://sport.ua/uk/online/100803-gyoztepe-galatasaray-2026-03-18
+                  - generic [ref=e894]: 53’
+                  - generic [ref=e895]: Гезтепе
+                  - generic [ref=e896]:
+                    - generic [ref=e897]: "1"
+                    - generic [ref=e898]: ":"
+                    - generic [ref=e899]: "2"
+                  - generic [ref=e900]: Галатасарай
+                - button "":
+                  - generic: 
+                - text: 
+            - generic [ref=e902]:
+              - generic [ref=e903]:
+                - paragraph [ref=e905]: Чемпіонат Саудівської Аравії 2025/2026 Про-ліга 29-й тур
+                - generic [ref=e906]:
+                  - link " Таблиця" [ref=e907] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/saudi-arabia/181/fixture
+                    - generic [ref=e908]: 
+                    - generic [ref=e909]: Таблиця
+                  - link " Календар" [ref=e910] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/football/results/saudi-arabia/181/calendar
+                    - generic [ref=e911]: 
+                    - generic [ref=e912]: Календар
+                - button "" [ref=e914] [cursor=pointer]:
+                  - generic [ref=e915]: 
+                - text: 
+              - generic [ref=e917]:
+                - generic [ref=e918]:
+                  - 'link "FT Аль-Фейха 1 : 1 Аль-Ахлі Джидда" [ref=e919] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101562-al-feyha-al-ahli-dzhidda-2026-04-07
+                    - generic [ref=e921]: FT
+                    - generic [ref=e922]: Аль-Фейха
+                    - generic [ref=e923]:
+                      - generic [ref=e924]: "1"
+                      - generic [ref=e925]: ":"
+                      - generic [ref=e926]: "1"
+                    - generic [ref=e927]: Аль-Ахлі Джидда
+                  - button "":
+                    - generic: 
+                  - text: 
+                - generic [ref=e929]:
+                  - 'link "12’ Аль-Іттіхад 0 : 1 Неом" [ref=e930] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101571-al-ittihad-neom-2026-04-07
+                    - generic [ref=e933]: 12’
+                    - generic [ref=e934]: Аль-Іттіхад
+                    - generic [ref=e935]:
+                      - generic [ref=e936]: "0"
+                      - generic [ref=e937]: ":"
+                      - generic [ref=e938]: "1"
+                    - generic [ref=e939]: Неом
+                  - button "":
+                    - generic: 
+                  - text: 
+                - generic [ref=e941]:
+                  - 'link "15’ Аль-Хіляль 2 : 0 Аль-Холуд" [ref=e942] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/online/101570-al-hilyal-al-holud-2026-04-07
+                    - generic [ref=e945]: 15’
+                    - generic [ref=e946]: Аль-Хіляль
+                    - generic [ref=e947]:
+                      - generic [ref=e948]: "2"
+                      - generic [ref=e949]: ":"
+                      - generic [ref=e950]: "0"
+                    - generic [ref=e951]: Аль-Холуд
+                  - button "":
+                    - generic: 
+                  - text: 
+        - generic [ref=e953]:
+          - generic [ref=e954]:
+            - heading "Статті" [level=2] [ref=e956]
+            - generic [ref=e958]:
+              - generic [ref=e959]:
+                - link "Мірча Луческу та віра в український клубний футбол після Лобановського" [ref=e960] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857427-mircha-luchesku-ta-vira-v-ukrainskiy-klubniy-futbol-pislya-lobanovskogo
+                  - img "Мірча Луческу та віра в український клубний футбол після Лобановського"
+                - generic [ref=e961]:
+                  - link "Мірча Луческу та віра в український клубний футбол після Лобановського" [ref=e963] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857427-mircha-luchesku-ta-vira-v-ukrainskiy-klubniy-futbol-pislya-lobanovskogo
+                  - generic [ref=e964]:
+                    - generic [ref=e965]: 08 квітня 2026, 17:55
+                    - generic [ref=e966]:
+                      - generic [ref=e967]: 
+                      - generic [ref=e968]: "7"
+                - generic [ref=e969]: Україна. Прем'єр Ліга
+              - generic [ref=e970]:
+                - link "11 відомих гравців віком 40 років і більше, які продовжують кар'єру" [ref=e971] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857438-11-vidomih-gravtsiv-vikom-40-rokiv-i-bilshe-yaki-prodovzhuyut-karieru
+                  - img "11 відомих гравців віком 40 років і більше, які продовжують кар'єру"
+                - generic [ref=e972]:
+                  - link "11 відомих гравців віком 40 років і більше, які продовжують кар'єру" [ref=e974] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857438-11-vidomih-gravtsiv-vikom-40-rokiv-i-bilshe-yaki-prodovzhuyut-karieru
+                  - generic [ref=e975]:
+                    - generic [ref=e976]: 08 квітня 2026, 13:26
+                    - generic [ref=e977]:
+                      - generic [ref=e978]: 
+                      - generic [ref=e979]: "2"
+                - generic [ref=e980]: Франція
+              - generic [ref=e981]:
+                - link "Мірча Луческу. Післямова" [ref=e982] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857408-mircha-luchesku-pislyamova
+                  - img "Мірча Луческу. Післямова"
+                - generic [ref=e983]:
+                  - link "Мірча Луческу. Післямова" [ref=e985] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857408-mircha-luchesku-pislyamova
+                  - generic [ref=e986]:
+                    - generic [ref=e987]: 08 квітня 2026, 12:09
+                    - generic [ref=e988]:
+                      - generic [ref=e989]: 
+                      - generic [ref=e990]: "5"
+                - generic [ref=e991]: Україна. Прем'єр Ліга
+              - generic [ref=e992]:
+                - link "Український тренер працевлаштувався за кордоном" [ref=e993] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857146-ukrainskiy-trener-pratsevlashtuvavsya-za-kordonom
+                  - img "Український тренер працевлаштувався за кордоном"
+                - generic [ref=e994]:
+                  - link "Український тренер працевлаштувався за кордоном" [ref=e996] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857146-ukrainskiy-trener-pratsevlashtuvavsya-za-kordonom
+                  - generic [ref=e997]:
+                    - generic [ref=e998]: 07 квітня 2026, 18:05
+                    - generic [ref=e999]:
+                      - generic [ref=e1000]: 
+                      - generic [ref=e1001]: "2"
+                - generic [ref=e1002]: Україна. Прем'єр Ліга
+              - text: 
+          - generic [ref=e1003]:
+            - heading "Популярні новини" [level=2] [ref=e1005]
+            - generic [ref=e1006]:
+              - generic [ref=e1007]:
+                - link "Легендарний володар Золотого м'яча ні дня не проводить без алкоголю" [ref=e1008] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/854727-legendarniy-volodar-zolotogo-myacha-ni-dnya-ne-provodit-bez-alkogolyu
+                  - img "Легендарний володар Золотого м'яча ні дня не проводить без алкоголю"
+                - generic [ref=e1009]:
+                  - generic [ref=e1010]:
+                    - generic [ref=e1011]: Україна. Прем'єр Ліга
+                    - generic [ref=e1012]: "|"
+                    - generic [ref=e1013]: 07 квітня 2026, 10:12
+                    - generic [ref=e1014]:
+                      - generic [ref=e1015]: 
+                      - generic [ref=e1016]: "6"
+                  - link "Легендарний володар Золотого м'яча ні дня не проводить без алкоголю" [ref=e1018] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/854727-legendarniy-volodar-zolotogo-myacha-ni-dnya-ne-provodit-bez-alkogolyu
+                  - paragraph [ref=e1019]: Луїш Фігу має слабкість
+              - generic [ref=e1021]:
+                - generic [ref=e1022]:
+                  - generic [ref=e1023]: Україна. Прем'єр Ліга
+                  - generic [ref=e1024]: "|"
+                  - generic [ref=e1025]: 08 квітня 2026, 08:20
+                  - generic [ref=e1026]:
+                    - generic [ref=e1027]: 
+                    - generic [ref=e1028]: "26"
+                - generic [ref=e1029]:
+                  - img "Суркіс звернувся до Пономаренка, після його їзди під 250 км на годину"
+                  - link "Суркіс звернувся до Пономаренка, після його їзди під 250 км на годину" [ref=e1030] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857247-surkis-zvernuvsya-do-ponomarenka-pislya-yogo-izdi-pid-250-km-na-godinu
+              - generic [ref=e1032]:
+                - generic [ref=e1033]:
+                  - generic [ref=e1034]: Україна. Прем'єр Ліга
+                  - generic [ref=e1035]: "|"
+                  - generic [ref=e1036]: 07 квітня 2026, 06:23
+                  - generic [ref=e1037]:
+                    - generic [ref=e1038]: 
+                    - generic [ref=e1039]: "29"
+                - generic [ref=e1040]:
+                  - img "Турнірна таблиця УПЛ. ЛНЗ та Шахтар лідирують, Полісся та Динамо відстали"
+                  - link "Турнірна таблиця УПЛ. ЛНЗ та Шахтар лідирують, Полісся та Динамо відстали" [ref=e1041] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/856627-turnirna-tablitsya-upl-lnz-ta-shahtar-lidiruyut-polissya-ta-dinamo-vidstali
+              - generic [ref=e1043]:
+                - generic [ref=e1044]:
+                  - generic [ref=e1045]: Англія
+                  - generic [ref=e1046]: "|"
+                  - generic [ref=e1047]: 08 квітня 2026, 09:59
+                  - generic [ref=e1048]:
+                    - generic [ref=e1049]: 
+                    - generic [ref=e1050]: "51"
+                - generic [ref=e1051]:
+                  - img "Мудрик знайшов людину, яка ввела йому допінг і подав до суду"
+                  - link "Мудрик знайшов людину, яка ввела йому допінг і подав до суду" [ref=e1052] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857376-mudrik-znayshov-lyudinu-yaka-vvela-yomu-doping-i-podav-do-sudu
+          - generic [ref=e1053]:
+            - heading "Футбол - відео " [level=2] [ref=e1055]:
+              - link "Футбол - відео" [ref=e1056] [cursor=pointer]:
+                - /url: https://sport.ua/uk/video
+              - generic [ref=e1057]: 
+            - generic [ref=e1059]:
+              - generic [ref=e1060]:
+                - link "Тростянець та Колос-2 не змогли дограти матч. Результати Другої ліги " [ref=e1061] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - img "Тростянець та Колос-2 не змогли дограти матч. Результати Другої ліги"
+                  - generic [ref=e1062]: 
+                - generic [ref=e1063]:
+                  - link "Тростянець та Колос-2 не змогли дограти матч. Результати Другої ліги" [ref=e1065] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857525-trostyanets-ta-kolos-2-ne-zmogli-dograti-match-rezultati-drugoi-ligi
+                  - generic [ref=e1067]: 08 квітня 2026, 20:49
+                - generic [ref=e1068]: Україна. Друга ліга
+              - generic [ref=e1069]:
+                - link "ПСЖ – Ліверпуль. 1/4 фіналу ЛЧ. Дивитись онлайн. LIVE трансляція " [ref=e1070] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857323-pszh-liverpul-14-finalu-lch-divitis-onlayn-live-translyatsiya
+                  - img "ПСЖ – Ліверпуль. 1/4 фіналу ЛЧ. Дивитись онлайн. LIVE трансляція"
+                  - generic [ref=e1071]: 
+                - generic [ref=e1072]:
+                  - link "ПСЖ – Ліверпуль. 1/4 фіналу ЛЧ. Дивитись онлайн. LIVE трансляція" [ref=e1074] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857323-pszh-liverpul-14-finalu-lch-divitis-onlayn-live-translyatsiya
+                  - generic [ref=e1076]: 08 квітня 2026, 20:47
+                - generic [ref=e1077]: Ліга чемпіонів
+              - generic [ref=e1078]:
+                - 'link "Від траси до геймпада: де ще можуть феєрити гравці Динамо " [ref=e1079] [cursor=pointer]':
+                  - /url: https://sport.ua/uk/news/857543-vid-trasi-do-geympada-de-shche-mozhut-feieriti-gravtsi-dinamo
+                  - 'img "Від траси до геймпада: де ще можуть феєрити гравці Динамо"'
+                  - generic [ref=e1080]: 
+                - generic [ref=e1081]:
+                  - 'link "Від траси до геймпада: де ще можуть феєрити гравці Динамо" [ref=e1083] [cursor=pointer]':
+                    - /url: https://sport.ua/uk/news/857543-vid-trasi-do-geympada-de-shche-mozhut-feieriti-gravtsi-dinamo
+                  - generic [ref=e1084]:
+                    - generic [ref=e1085]: 08 квітня 2026, 20:37
+                    - generic [ref=e1086]:
+                      - generic [ref=e1087]: 
+                      - generic [ref=e1088]: "1"
+                - generic [ref=e1089]: Україна. Прем'єр Ліга
+              - generic [ref=e1090]:
+                - link "Закріпились на другому місці. Чорноморець в Одесі обіграв Інгулець " [ref=e1091] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857528-zakripilis-na-drugomu-mistsi-chornomorets-v-odesi-obigrav-ingulets
+                  - img "Закріпились на другому місці. Чорноморець в Одесі обіграв Інгулець"
+                  - generic [ref=e1092]: 
+                - generic [ref=e1093]:
+                  - link "Закріпились на другому місці. Чорноморець в Одесі обіграв Інгулець" [ref=e1095] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857528-zakripilis-na-drugomu-mistsi-chornomorets-v-odesi-obigrav-ingulets
+                  - generic [ref=e1097]: 08 квітня 2026, 20:16
+                - generic [ref=e1098]: Україна. Перша ліга
+              - text: 
+          - generic [ref=e1099]:
+            - heading "Прогнози на Футбол" [level=2] [ref=e1101]:
+              - link "Прогнози на Футбол" [ref=e1102] [cursor=pointer]:
+                - /url: https://sport.ua/uk/forecasts/football
+            - generic [ref=e1103]:
+              - generic [ref=e1104]:
+                - link "ПСЖ – Ліверпуль. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів" [ref=e1105] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/857335-pszh-liverpul-prognoz-i-anons-na-match-14-finalu-ligi-chempioniv
+                  - img "ПСЖ – Ліверпуль. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів"
+                - generic [ref=e1106]:
+                  - generic [ref=e1107]:
+                    - generic [ref=e1108]: Ліга чемпіонів
+                    - generic [ref=e1109]: "|"
+                    - generic [ref=e1110]: 08 квітня 2026, 20:48
+                    - generic [ref=e1111]:
+                      - generic [ref=e1112]: 
+                      - generic [ref=e1113]: "3"
+                  - link "ПСЖ – Ліверпуль. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів" [ref=e1115] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857335-pszh-liverpul-prognoz-i-anons-na-match-14-finalu-ligi-chempioniv
+                  - paragraph [ref=e1116]: Поєдинок розпочнеться 8 квітня о 22:00 за Києвом
+              - generic [ref=e1118]:
+                - generic [ref=e1119]:
+                  - generic [ref=e1120]: Ліга чемпіонів
+                  - generic [ref=e1121]: "|"
+                  - generic [ref=e1122]: 08 квітня 2026, 20:44
+                  - generic [ref=e1123]:
+                    - generic [ref=e1124]: 
+                    - generic [ref=e1125]: "9"
+                - generic [ref=e1126]:
+                  - img "Барселона – Атлетіко. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів"
+                  - link "Барселона – Атлетіко. Прогноз і анонс на матч 1/4 фіналу Ліги чемпіонів" [ref=e1127] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857334-barselona-atletiko-prognoz-i-anons-na-match-14-finalu-ligi-chempioniv
+              - generic [ref=e1129]:
+                - generic [ref=e1130]:
+                  - generic [ref=e1131]: Ліга Європи
+                  - generic [ref=e1132]: "|"
+                  - generic [ref=e1133]: 08 квітня 2026, 19:01
+                - generic [ref=e1134]:
+                  - img "Брага – Бетіс. Прогноз і анонс на матч 1/4 фіналу Ліги Європи"
+                  - link "Брага – Бетіс. Прогноз і анонс на матч 1/4 фіналу Ліги Європи" [ref=e1135] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857332-braga-betis-prognoz-i-anons-na-match-14-finalu-ligi-yevropi
+              - generic [ref=e1137]:
+                - generic [ref=e1138]:
+                  - generic [ref=e1139]: Україна. Перша ліга
+                  - generic [ref=e1140]: "|"
+                  - generic [ref=e1141]: 08 квітня 2026, 14:55
+                  - generic [ref=e1142]:
+                    - generic [ref=e1143]: 
+                    - generic [ref=e1144]: "1"
+                - generic [ref=e1145]:
+                  - img "Чорноморець – Інгулець. Прогноз і анонс матчу Першої ліги України"
+                  - link "Чорноморець – Інгулець. Прогноз і анонс матчу Першої ліги України" [ref=e1146] [cursor=pointer]:
+                    - /url: https://sport.ua/uk/news/857284-chornomorets-ingulets-prognoz-i-anons-matchu-pershoi-ligi-ukraini
+        - generic [ref=e1147]:
+          - generic [ref=e1148]:
+            - heading "Турнірна таблиця" [level=2] [ref=e1150]
+            - combobox [ref=e1152] [cursor=pointer]:
+              - option "Ліга Чемпіонів" [selected]
+              - option "Ліга Європи"
+              - option "Ліга конференцій"
+              - option "Чемпіонат Європи"
+              - option "Ліга націй УЄФА. Ліга A"
+              - option "Ліга націй УЄФА. Ліга B"
+              - option "Ліга націй УЄФА. Ліга C"
+              - option "Ліга націй УЄФА. Ліга D"
+              - option "Прем'єр-ліга"
+              - option "Клубний чемпіонат світу"
+              - option "Чемпіонат світу"
+              - option "ЧС. Кваліфікація. Європа"
+              - option "Перша ліга"
+              - option "Друга ліга"
+              - option "Кубок Америки"
+              - option "Чемпіонат Англії"
+              - option "Чемпіонат Іспанії"
+              - option "Чемпіонат Італії"
+              - option "Чемпіонат Німеччини"
+              - option "Чемпіонат Франції"
+              - option "МЛС США"
+              - option "Чемпіонат Португалії"
+              - option "Чемпіонат Бельгії"
+              - option "Чемпіонат Нідерландів"
+              - option "Чемпіонат Туреччини"
+              - option "Чемпіонат Саудівської Аравії"
+              - option "ЧС. Кваліфікація. КОНМЕБОЛ"
+              - option "ЧС. Кваліфікація. Азія"
+              - option "ЧС. Кваліфікація. Африка"
+              - option "ЧС. Кваліфікація. КОНКАКАФ"
+              - option "ЧС. Кваліфікація. Океанія"
+              - option "Молодіжний чемпіонат світу U20"
+              - option "Євро U21"
+              - option "Золотий кубок КОНКАКАФ"
+              - option "Кубок ліг"
+              - option "Ліга чемпіонів АФК"
+              - option "Молодіжний чемпіонат світу U17"
+              - option "Юнацька ліга УЄФА"
+            - table [ref=e1154]:
+              - rowgroup [ref=e1155]:
+                - row "№ Команда І З-П О" [ref=e1156]:
+                  - cell "№" [ref=e1157]:
+                    - generic [ref=e1158]: №
+                  - cell "Команда" [ref=e1159]:
+                    - generic [ref=e1160]: Команда
+                  - cell "І" [ref=e1161]:
+                    - generic [ref=e1162]: І
+                  - cell "З-П" [ref=e1163]:
+                    - generic [ref=e1164]: З-П
+                  - cell "О" [ref=e1165]:
+                    - generic [ref=e1166]: О
+                - row "1. Арсенал 8 23 - 4 24" [ref=e1167]:
+                  - cell "1." [ref=e1168]:
+                    - generic [ref=e1169]: "1."
+                  - cell "Арсенал" [ref=e1170]:
+                    - link "Арсенал" [ref=e1172] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/91-arsenal
+                  - cell "8" [ref=e1173]:
+                    - generic [ref=e1174]: "8"
+                  - cell "23 - 4" [ref=e1175]:
+                    - generic [ref=e1176]: 23 - 4
+                  - cell "24" [ref=e1177]:
+                    - generic [ref=e1178]: "24"
+                - row "2. Баварія 8 22 - 8 21" [ref=e1179]:
+                  - cell "2." [ref=e1180]:
+                    - generic [ref=e1181]: "2."
+                  - cell "Баварія" [ref=e1182]:
+                    - link "Баварія" [ref=e1184] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/55-bavariya
+                  - cell "8" [ref=e1185]:
+                    - generic [ref=e1186]: "8"
+                  - cell "22 - 8" [ref=e1187]:
+                    - generic [ref=e1188]: 22 - 8
+                  - cell "21" [ref=e1189]:
+                    - generic [ref=e1190]: "21"
+                - row "3. Ліверпуль 8 20 - 8 18" [ref=e1191]:
+                  - cell "3." [ref=e1192]:
+                    - generic [ref=e1193]: "3."
+                  - cell "Ліверпуль" [ref=e1194]:
+                    - link "Ліверпуль" [ref=e1196] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/98-liverpul
+                  - cell "8" [ref=e1197]:
+                    - generic [ref=e1198]: "8"
+                  - cell "20 - 8" [ref=e1199]:
+                    - generic [ref=e1200]: 20 - 8
+                  - cell "18" [ref=e1201]:
+                    - generic [ref=e1202]: "18"
+                - row "4. Тоттенхем 8 17 - 7 17" [ref=e1203]:
+                  - cell "4." [ref=e1204]:
+                    - generic [ref=e1205]: "4."
+                  - cell "Тоттенхем" [ref=e1206]:
+                    - link "Тоттенхем" [ref=e1208] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/106-tottenhem
+                  - cell "8" [ref=e1209]:
+                    - generic [ref=e1210]: "8"
+                  - cell "17 - 7" [ref=e1211]:
+                    - generic [ref=e1212]: 17 - 7
+                  - cell "17" [ref=e1213]:
+                    - generic [ref=e1214]: "17"
+                - row "5. Барселона 8 22 - 14 16" [ref=e1215]:
+                  - cell "5." [ref=e1216]:
+                    - generic [ref=e1217]: "5."
+                  - cell "Барселона" [ref=e1218]:
+                    - link "Барселона" [ref=e1220] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/118-barselona
+                  - cell "8" [ref=e1221]:
+                    - generic [ref=e1222]: "8"
+                  - cell "22 - 14" [ref=e1223]:
+                    - generic [ref=e1224]: 22 - 14
+                  - cell "16" [ref=e1225]:
+                    - generic [ref=e1226]: "16"
+                - row "6. Челсі 8 17 - 10 16" [ref=e1227]:
+                  - cell "6." [ref=e1228]:
+                    - generic [ref=e1229]: "6."
+                  - cell "Челсі" [ref=e1230]:
+                    - link "Челсі" [ref=e1232] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/109-chelsi
+                  - cell "8" [ref=e1233]:
+                    - generic [ref=e1234]: "8"
+                  - cell "17 - 10" [ref=e1235]:
+                    - generic [ref=e1236]: 17 - 10
+                  - cell "16" [ref=e1237]:
+                    - generic [ref=e1238]: "16"
+                - row "7. Спортінг Лісабон 8 17 - 11 16" [ref=e1239]:
+                  - cell "7." [ref=e1240]:
+                    - generic [ref=e1241]: "7."
+                  - cell "Спортінг Лісабон" [ref=e1242]:
+                    - link "Спортінг Лісабон" [ref=e1244] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/155-sporting-lissabon
+                  - cell "8" [ref=e1245]:
+                    - generic [ref=e1246]: "8"
+                  - cell "17 - 11" [ref=e1247]:
+                    - generic [ref=e1248]: 17 - 11
+                  - cell "16" [ref=e1249]:
+                    - generic [ref=e1250]: "16"
+                - row "8. Манчестер Сіті 8 15 - 9 16" [ref=e1251]:
+                  - cell "8." [ref=e1252]:
+                    - generic [ref=e1253]: "8."
+                  - cell "Манчестер Сіті" [ref=e1254]:
+                    - link "Манчестер Сіті" [ref=e1256] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/100-manchester-siti
+                  - cell "8" [ref=e1257]:
+                    - generic [ref=e1258]: "8"
+                  - cell "15 - 9" [ref=e1259]:
+                    - generic [ref=e1260]: 15 - 9
+                  - cell "16" [ref=e1261]:
+                    - generic [ref=e1262]: "16"
+                - row "9. Реал Мадрид 8 21 - 12 15" [ref=e1263]:
+                  - cell "9." [ref=e1264]:
+                    - generic [ref=e1265]: "9."
+                  - cell "Реал Мадрид" [ref=e1266]:
+                    - link "Реал Мадрид" [ref=e1268] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/117-real-madrid
+                  - cell "8" [ref=e1269]:
+                    - generic [ref=e1270]: "8"
+                  - cell "21 - 12" [ref=e1271]:
+                    - generic [ref=e1272]: 21 - 12
+                  - cell "15" [ref=e1273]:
+                    - generic [ref=e1274]: "15"
+                - row "10. Інтер Мілан 8 15 - 7 15" [ref=e1275]:
+                  - cell "10." [ref=e1276]:
+                    - generic [ref=e1277]: "10."
+                  - cell "Інтер Мілан" [ref=e1278]:
+                    - link "Інтер Мілан" [ref=e1280] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/football/teams/36-inter-milan
+                  - cell "8" [ref=e1281]:
+                    - generic [ref=e1282]: "8"
+                  - cell "15 - 7" [ref=e1283]:
+                    - generic [ref=e1284]: 15 - 7
+                  - cell "15" [ref=e1285]:
+                    - generic [ref=e1286]: "15"
+            - link "Повна таблиця" [ref=e1287] [cursor=pointer]:
+              - /url: https://sport.ua/uk/cl/results/fixture
+          - generic [ref=e1288]:
+            - heading "Тренди" [level=3] [ref=e1289]
+            - list [ref=e1290]:
+              - listitem [ref=e1291]:
+                - text: 
+                - link "Луческу" [ref=e1292] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/31339-mircha-luchesku
+              - listitem [ref=e1293]:
+                - text: 
+                - link "ЛЧ" [ref=e1294] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/66899-liga-chempionov
+              - listitem [ref=e1295]:
+                - text: 
+                - link "ПСЖ - Ліверпуль" [ref=e1296] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/60424-pszh
+              - listitem [ref=e1297]:
+                - text: 
+                - link "Барселона - Атлетіко" [ref=e1298] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/153-barselona
+              - listitem [ref=e1299]:
+                - text: 
+                - link "Шахтар" [ref=e1300] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/24199-shahter-donetsk
+              - listitem [ref=e1301]:
+                - text: 
+                - link "Ла Ліга betking" [ref=e1302] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/97367-la-liga-betking
+              - listitem [ref=e1303]:
+                - text: 
+                - link "WTA Лінц" [ref=e1304] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/tags/38290-wta-lints
+          - generic [ref=e1305]:
+            - text: "#Реклама"
+            - generic [ref=e1306]: Кращі букмекери
+            - table [ref=e1307]:
+              - rowgroup [ref=e1308]:
+                - row "№ Букмекер Бонус" [ref=e1309]:
+                  - columnheader "№" [ref=e1310]
+                  - columnheader "Букмекер" [ref=e1311]
+                  - columnheader "Бонус" [ref=e1312]
+                - row "1 BetKing  250000₴ На сайт" [ref=e1313]:
+                  - cell "1" [ref=e1314]:
+                    - generic [ref=e1315]: "1"
+                  - cell "BetKing" [ref=e1316]:
+                    - link "BetKing":
+                      - /url: https://sport.ua/uk/betting/bookmakers/betking
+                      - img "BetKing"
+                  - cell " 250000₴" [ref=e1317]:
+                    - generic [ref=e1318]:
+                      - generic [ref=e1319]: 
+                      - generic [ref=e1320]: 250000₴
+                  - cell "На сайт" [ref=e1321]:
+                    - link "На сайт" [ref=e1322] [cursor=pointer]:
+                      - /url: https://sport.ua/go/sportlinks.info/fpVFXXV9
+                - row "Ліцензія КРАІЛ № 559 від 05.12.2024" [ref=e1323]:
+                  - cell [ref=e1324]
+                  - cell "Ліцензія КРАІЛ № 559 від 05.12.2024" [ref=e1325]
+                - row "2 Ggbet  150000₴ На сайт" [ref=e1326]:
+                  - cell "2" [ref=e1327]:
+                    - generic [ref=e1328]: "2"
+                  - cell "Ggbet" [ref=e1329]:
+                    - link "Ggbet":
+                      - /url: https://sport.ua/uk/betting/bookmakers/ggbet
+                      - img "Ggbet"
+                  - cell " 150000₴" [ref=e1330]:
+                    - generic [ref=e1331]:
+                      - generic [ref=e1332]: 
+                      - generic [ref=e1333]: 150000₴
+                  - cell "На сайт" [ref=e1334]:
+                    - link "На сайт" [ref=e1335] [cursor=pointer]:
+                      - /url: https://sport.ua/go/sportlinks.info/FpmrYFCZ
+                - row "Ліцензія КРАІЛ № 128 від 08.08.2023" [ref=e1336]:
+                  - cell [ref=e1337]
+                  - cell "Ліцензія КРАІЛ № 128 від 08.08.2023" [ref=e1338]
+                - row "3 Favbet  275000₴ На сайт" [ref=e1339]:
+                  - cell "3" [ref=e1340]:
+                    - generic [ref=e1341]: "3"
+                  - cell "Favbet" [ref=e1342]:
+                    - link "Favbet":
+                      - /url: https://sport.ua/uk/betting/bookmakers/favbet
+                      - img "Favbet"
+                  - cell " 275000₴" [ref=e1343]:
+                    - generic [ref=e1344]:
+                      - generic [ref=e1345]: 
+                      - generic [ref=e1346]: 275000₴
+                  - cell "На сайт" [ref=e1347]:
+                    - link "На сайт" [ref=e1348] [cursor=pointer]:
+                      - /url: https://sport.ua/go/sportlinks.info/dMXwz9V4
+                - row "Ліцензія КРАІЛ № 433 від 13.12.2022" [ref=e1349]:
+                  - cell [ref=e1350]
+                  - cell "Ліцензія КРАІЛ № 433 від 13.12.2022" [ref=e1351]
+                - row "(21+). Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри." [ref=e1352]:
+                  - cell "(21+). Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри." [ref=e1353]:
+                    - generic [ref=e1354]: (21+). Участь в азартних іграх може викликати ігрову залежність. Дотримуйтеся правил (принципів) відповідальної гри.
+                - row "Всі букмекери" [ref=e1355]:
+                  - cell "Всі букмекери" [ref=e1356]:
+                    - link "Всі букмекери" [ref=e1357] [cursor=pointer]:
+                      - /url: https://sport.ua/uk/betting/bookmakers-ukraine
+          - generic:
+            - insertion
+    - generic [ref=e1358]:
+      - 'heading "Новини футболу на сьогодні онлайн: свіжі події, турнірні таблиці та результати матчів" [level=2] [ref=e1359]'
+      - paragraph [ref=e1360]: На нашому ресурсі ви знайдете всі останні та свіжі новини футболу в Україні. Ресурс SPORT.UA, повно та точно висвітлює популярний футбол сьогодні. Тут можна дивитися результати футбольних матчів, розклад та статистику футболу онлайн, а також текстову трансляцію матчів. Найсвіжіші дані зібрані разом на одному онлайн-майданчику.
+      - heading "Інформація для шанувальників:" [level=2] [ref=e1361]
+      - list [ref=e1362]:
+        - listitem [ref=e1363]: Останні новини онлайн.
+        - listitem [ref=e1364]: Інтерв'ю з функціонерами.
+        - listitem [ref=e1365]: Анонси.
+        - listitem [ref=e1366]: На кожен великий чемпіонат – своя турнірна таблиця – України, Європи та всього світу.
+        - listitem [ref=e1367]: Розклад та календар подій.
+        - listitem [ref=e1368]: Футбольної статистики.
+        - listitem [ref=e1369]: Результати лайфу.
+        - listitem [ref=e1370]: Прогнози на матчі від професіоналів.
+        - listitem [ref=e1371]: Аналітика минулих та майбутніх подій за календарем.
+      - heading "Великий вибір корисних даних" [level=2] [ref=e1372]
+      - paragraph [ref=e1373]: "Тут ви знайдете все про футбол: асортимент корисного контенту охоплює безліч аспектів гри. Вболівальникам доступна докладна інформація про турніри та матчі:"
+      - list [ref=e1374]:
+        - listitem [ref=e1375]: "детальні результати футбольних матчів із протоколами зустрічей та всіма подробицями онлайн: рахунком, даними про авторів голів і хвилин, на яких вони були забиті, кількість жовтих і червоних карток, замін, ударів у бік і в ворота, офсайдів, кутових, відсоток володіння м'ячем та інша футбольна статистика;"
+        - listitem [ref=e1376]: історії попередніх зустрічей граючих команд із детальною вказівкою відомостей про них, таких як результати ігор, співвідношення перемог та поразок, дати та місця проведення, склади на полі, огляди, відео з моментами та інші подробиці;
+        - listitem [ref=e1377]: "інформація про футбольні клуби, що дозволяє переглянути відомості про країну базування, лігу, головного тренера, склад гравців; там же є розклад матчів: минулих, майбутніх та актуальних на сьогодні, їх результати і статистика, відомості про положення в турнірній таблиці, останні новини, підтверджені переходи та трансферні чутки, пов'язані з ФК;"
+        - listitem [ref=e1378]: текстові трансляції важливих поєдинків з описом того, що відбувається на полі в режимі live для тих, хто не має можливості подивитися матч онлайн або не бажає переглядати гру у записі;
+        - listitem [ref=e1379]: новини про футбол, які можна сортувати за країнами та чемпіонатами для зручного перегляду;
+        - listitem [ref=e1380]: деталізована інформація про національні та міжнародні змагання з урахуванням клубів та збірних, з турнірними таблицями, розкладами матчів, статистикою ігор, відомостями про їх відвідуваність, трансферами та іншими подробицями;
+        - listitem [ref=e1381]: актуальні на сьогодні офіційні рейтинги, такі як рейтинг національних збірних ФІФА, рейтинг футбольних асоціацій чи топ найкращих клубів Європи, складені УЄФА.
+      - paragraph [ref=e1382]:
+        - link "Читати далі" [ref=e1383] [cursor=pointer]:
+          - /url: "#"
+    - contentinfo [ref=e1384]:
+      - generic [ref=e1385]:
+        - navigation [ref=e1387]:
+          - list [ref=e1389]:
+            - listitem [ref=e1390]: Види спорту 
+            - listitem [ref=e1391]:
+              - link "Футбол" [ref=e1392] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football
+            - listitem [ref=e1393]:
+              - link "Бокс" [ref=e1394] [cursor=pointer]:
+                - /url: https://sport.ua/uk/box
+            - listitem [ref=e1395]:
+              - link "Теніс" [ref=e1396] [cursor=pointer]:
+                - /url: https://sport.ua/uk/tennis
+            - listitem [ref=e1397]:
+              - link "Баскетбол" [ref=e1398] [cursor=pointer]:
+                - /url: https://sport.ua/uk/basketball
+            - listitem [ref=e1399]:
+              - link "Біатлон" [ref=e1400] [cursor=pointer]:
+                - /url: https://sport.ua/uk/biathlon
+            - listitem [ref=e1401]:
+              - link "Хокей" [ref=e1402] [cursor=pointer]:
+                - /url: https://sport.ua/uk/hockey
+            - listitem [ref=e1403]:
+              - link "ММА" [ref=e1404] [cursor=pointer]:
+                - /url: https://sport.ua/uk/mma
+            - listitem [ref=e1405]:
+              - link "Футзал" [ref=e1406] [cursor=pointer]:
+                - /url: https://sport.ua/uk/futsal
+            - listitem [ref=e1407]:
+              - link "Авто/Мото" [ref=e1408] [cursor=pointer]:
+                - /url: https://sport.ua/uk/auto
+            - listitem [ref=e1409]:
+              - link "Волейбол" [ref=e1410] [cursor=pointer]:
+                - /url: https://sport.ua/uk/volleyball
+            - listitem [ref=e1411]:
+              - link "Гандбол" [ref=e1412] [cursor=pointer]:
+                - /url: https://sport.ua/uk/handball
+            - listitem [ref=e1413]:
+              - link "Кіберспорт" [ref=e1414] [cursor=pointer]:
+                - /url: https://sport.ua/uk/cyber
+            - listitem [ref=e1415]:
+              - link "Покер" [ref=e1416] [cursor=pointer]:
+                - /url: https://sport.ua/uk/poker
+            - listitem [ref=e1417]:
+              - link "Снукер" [ref=e1418] [cursor=pointer]:
+                - /url: https://sport.ua/uk/snooker
+            - listitem [ref=e1419]:
+              - link "Олімпійські ігри" [ref=e1420] [cursor=pointer]:
+                - /url: https://sport.ua/uk/olympic
+          - generic [ref=e1421]:
+            - list [ref=e1422]:
+              - listitem [ref=e1423]: Футбол України 
+              - listitem [ref=e1424]:
+                - link "Прем'єр ліга" [ref=e1425] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/4u/1-premyer-liga
+                - text: "|"
+                - link "таблиця" [ref=e1426] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/football/results/ukraine/1/fixture
+              - listitem [ref=e1427]:
+                - link "Перша ліга" [ref=e1428] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/4u/2-pervaya-liga
+                - text: "|"
+                - link "таблиця" [ref=e1429] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/football/results/ukraine/2/fixture
+              - listitem [ref=e1430]:
+                - link "Кубок України" [ref=e1431] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/cup
+            - list [ref=e1432]:
+              - listitem [ref=e1433]: Єврокубки 
+              - listitem [ref=e1434]:
+                - link "Ліга Чемпіонів" [ref=e1435] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/cl
+                - text: "|"
+                - link "таблиця" [ref=e1436] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/cl/results/fixture
+              - listitem [ref=e1437]:
+                - link "Ліга Європи" [ref=e1438] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/uefa
+                - text: "|"
+                - link "таблиця" [ref=e1439] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/uefa/results/fixture
+              - listitem [ref=e1440]:
+                - link "Ліга конференцій" [ref=e1441] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/conference-league
+            - list [ref=e1442]:
+              - listitem [ref=e1443]: Міжнародні 
+              - listitem [ref=e1444]:
+                - link "Чемпіонат світу" [ref=e1445] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/worldcup
+              - listitem [ref=e1446]:
+                - link "Євро-2024" [ref=e1447] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/euro
+                - text: "|"
+                - link "таблиця" [ref=e1448] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/euro/results/fixture
+              - listitem [ref=e1449]:
+                - link "Ліга націй" [ref=e1450] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/nationsleague
+                - text: "|"
+                - link "таблиця" [ref=e1451] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/nationsleague/results/fixture
+          - list [ref=e1453]:
+            - listitem [ref=e1454]: Футбол - країни 
+            - listitem [ref=e1455]:
+              - link "Англія" [ref=e1456] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/england
+              - text: "|"
+              - link "таблиця" [ref=e1457] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/results/england/16/fixture
+            - listitem [ref=e1458]:
+              - link "Німеччина" [ref=e1459] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/germany
+              - text: "|"
+              - link "таблиця" [ref=e1460] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/results/germany/14/fixture
+            - listitem [ref=e1461]:
+              - link "Іспанія" [ref=e1462] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/spain
+              - text: "|"
+              - link "таблиця" [ref=e1463] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/results/spain/17/fixture
+            - listitem [ref=e1464]:
+              - link "Італія" [ref=e1465] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/italy
+              - text: "|"
+              - link "таблиця" [ref=e1466] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/results/italy/13/fixture
+            - listitem [ref=e1467]:
+              - link "Франція" [ref=e1468] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/france
+              - text: "|"
+              - link "таблиця" [ref=e1469] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/results/france/15/fixture
+            - listitem [ref=e1470]:
+              - link "Аргентина" [ref=e1471] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/argentina
+            - listitem [ref=e1472]:
+              - link "Бельгія" [ref=e1473] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/belgium
+            - listitem [ref=e1474]:
+              - link "Бразилія" [ref=e1475] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/brazil
+            - listitem [ref=e1476]:
+              - link "Греція" [ref=e1477] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/greece
+            - listitem [ref=e1478]:
+              - link "Нідерланди" [ref=e1479] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/belgium
+            - listitem [ref=e1480]:
+              - link "Польща" [ref=e1481] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/poland
+            - listitem [ref=e1482]:
+              - link "Португалія" [ref=e1483] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/portugal
+            - listitem [ref=e1484]:
+              - link "Румунія" [ref=e1485] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/romania
+            - listitem [ref=e1486]:
+              - link "Туреччина" [ref=e1487] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/turkey
+            - listitem [ref=e1488]:
+              - link "Саудівська Аравія" [ref=e1489] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/saudi-arabia
+            - listitem [ref=e1490]:
+              - link "Major League Soccer" [ref=e1491] [cursor=pointer]:
+                - /url: https://sport.ua/uk/mls
+          - list [ref=e1493]:
+            - listitem [ref=e1494]: Футбольні клуби 
+            - listitem [ref=e1495]:
+              - link "Динамо Київ" [ref=e1496] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/4-dinamo-kiev
+            - listitem [ref=e1497]:
+              - link "Псж" [ref=e1498] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/86-pszh
+            - listitem [ref=e1499]:
+              - link "Жирона" [ref=e1500] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/1570-zhirona
+            - listitem [ref=e1501]:
+              - link "Шахтар Донецьк" [ref=e1502] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/2-shahter-donetsk
+            - listitem [ref=e1503]:
+              - link "Арсенал" [ref=e1504] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/91-arsenal
+            - listitem [ref=e1505]:
+              - link "Баварія" [ref=e1506] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/55-bavariya
+            - listitem [ref=e1507]:
+              - link "Барселона" [ref=e1508] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/118-barselona
+            - listitem [ref=e1509]:
+              - link "Інтер" [ref=e1510] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/36-inter-milan
+            - listitem [ref=e1511]:
+              - link "Ліверпуль" [ref=e1512] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/98-liverpul
+            - listitem [ref=e1513]:
+              - link "Манчестер Сіті" [ref=e1514] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/100-man-siti
+            - listitem [ref=e1515]:
+              - link "Манчестер Юнайтед" [ref=e1516] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/101-man-yunayted
+            - listitem [ref=e1517]:
+              - link "Мілан" [ref=e1518] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/40-milan
+            - listitem [ref=e1519]:
+              - link "Реал Мадрид" [ref=e1520] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/117-real-madrid
+            - listitem [ref=e1521]:
+              - link "Челсі" [ref=e1522] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/109-chelsi
+            - listitem [ref=e1523]:
+              - link "Ювентус" [ref=e1524] [cursor=pointer]:
+                - /url: https://sport.ua/uk/football/teams/50-yuventus
+          - generic [ref=e1525]:
+            - list [ref=e1526]:
+              - listitem [ref=e1527]:
+                - link "Ставки на спорт" [ref=e1528] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/betting
+            - list [ref=e1529]:
+              - listitem [ref=e1530]:
+                - link "Букмекери України" [ref=e1531] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/betting/bookmakers-ukraine
+                - text: 
+              - listitem [ref=e1532]:
+                - link "Favbet" [ref=e1533] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/betting/bookmakers/favbet
+              - listitem [ref=e1534]:
+                - link "Vbet" [ref=e1535] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/betting/bookmakers/vbet
+            - list [ref=e1536]:
+              - listitem [ref=e1537]:
+                - link "Покер-руми" [ref=e1538] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/poker-rooms
+            - list [ref=e1539]:
+              - listitem [ref=e1540]:
+                - link "Футбол онлайн" [ref=e1541] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/live/football
+              - listitem [ref=e1542]:
+                - link "Спортивна ТВ-програма" [ref=e1543] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/tv
+              - listitem [ref=e1544]:
+                - link "Календар новин" [ref=e1545] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news/calendar
+              - listitem [ref=e1546]:
+                - link "Наші репортери" [ref=e1547] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/reporters
+              - listitem [ref=e1548]:
+                - link "Наші експерти" [ref=e1549] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/experts
+            - list [ref=e1550]:
+              - listitem [ref=e1551]:
+                - link "Політика конфіденційності" [ref=e1552] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/confidentiality-agreement
+              - listitem [ref=e1553]:
+                - link "Угода користувача" [ref=e1554] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/agreement
+              - listitem [ref=e1555]:
+                - link "Правова інформація" [ref=e1556] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/legal
+              - listitem [ref=e1557]:
+                - link "Редакційна політика" [ref=e1558] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/news-editorial-policy
+              - listitem [ref=e1559]:
+                - link "Реклама на сайті" [ref=e1560] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/advertising
+              - listitem [ref=e1561]:
+                - link "Про проєкт" [ref=e1562] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/about
+              - listitem [ref=e1563]:
+                - link "Контакти" [ref=e1564] [cursor=pointer]:
+                  - /url: https://sport.ua/uk/contacts
+              - listitem [ref=e1565]:
+                - link "Налаштувати Cookie" [ref=e1566] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=e1568]:
+          - generic [ref=e1570]:
+            - link "Sport.ua" [ref=e1571] [cursor=pointer]:
+              - /url: https://sport.ua/uk
+              - img "Sport.ua" [ref=e1572]
+            - generic [ref=e1573]:
+              - generic [ref=e1574]: © 2003-2026 Sport.ua
+              - generic [ref=e1575]: "Ідентифікатор онлайн-медіа в реєстрі онлайн-медіа: R40-05688"
+          - paragraph [ref=e1576]:
+            - text: Всі права захищені. При використанні текстових матеріалів сайту гіперпосилання на Sport.ua обов'язкове. Для друкованих видань вказівка Sport.ua обов'язкова. Використання фотоматеріалів сайту без письмового дозволу редакції заборонено. Редакція може не поділяти точку зору авторів і не несе відповідальності за авторські матеріали.
+            - text: Будь-яке копіювання, передрук та відтворення фотографічних творів та/або аудіовізуальних творів правовласника Getty Images - суворо забороняється.
+          - generic [ref=e1577]:
+            - generic [ref=e1580]:
+              - paragraph [ref=e1581]: Матеріали сайту призначені для осіб старше 21 року (21+). Участь в азартних іграх може викликати ігрову залежність. Дотримуйтесь правил (принципів) відповідальної гри.
+              - paragraph [ref=e1582]: При виявленні перших ознак залежності негайно зверніться до спеціаліста. Пам'ятайте, що участь в азартних іграх не може бути джерелом доходів або альтернативою роботі.
+              - paragraph [ref=e1583]: Інформаційний ресурс sport.ua не проводить ігри на реальні та/або віртуальні гроші, також сайт не приймає ні в якій формі оплату ставок та інших платежів, які пов’язані/можуть бути пов’язані з азартними іграми, букмекерами чи тоталізаторами. Будь-які матеріали на інформаційному ресурсі sport.ua публікуються виключно в інформаційних цілях.
+            - generic [ref=e1584]:
+              - link [ref=e1585] [cursor=pointer]:
+                - /url: https://playcity.gov.ua/
+              - link:
+                - /url: https://www.gamblingtherapy.org/uk/
+        - button "" [ref=e1586] [cursor=pointer]:
+          - generic [ref=e1587]: 
+  - text:                  
